@@ -29,7 +29,7 @@ _Color_
 
 _Shape_
 
-- [Triangular Fans](<https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color/color(Chapter01)/Excercise03/StepFinal>) - Both a Color & Shape Experiement
+- [Triangular Fans](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color/colorChapter01/Excercise03/StepFinal) - Both a Color & Shape Experiement
 
 _Type_
 
@@ -60,5 +60,5 @@ _Type_
 ## Author
 
 - **Dylan Brohan** - _Initial work_ - [DylanBrohan]
-  \*\*Git Hub Link -> Up to Date -> Creative Coding
-  (https://github.com/DylanBrohan)
+  Git Hub Link -> Creative Coding Portfolio
+  (https://github.com/DylanBrohan/Generative-Design-Portfolio)
