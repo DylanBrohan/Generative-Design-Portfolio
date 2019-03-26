@@ -37,17 +37,27 @@ _Type_
 
 - [Type Experiement02](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter03-Type/type_from_pixels_template) - Type & Pixel Manipulation
 
-## Live Demos
+# Live Demos
 
 **Below if Some of my Assignment work and Favourite live demonstrations.**
 
-# Color Assignment:
+##Color Assignment:
 
-# Clock in P5:
+#### [Color Experiement](Generative-Design-Portfolio/Chapter01-Color Experiements/colorChapter01/Excercise04/StepFinal/)
 
-# Type Assignment:
+## Clock in P5:
 
-# Shape Assignment:
+#### [Swiss Clock in P5](Generative-Design-Portfolio/Chapter02-Shape-Experiements/InClass Exam-CreativeCoding/StepFinal/)
+
+## Type Assignment:
+
+#### [Type Input Experiement](Generative-Design-Portfolio/Chapter03-Type/Assignment3-Type/)
+
+## Image Assignment:
+
+#### [Image Manipulation](<Generative-Design-Portfolio/Images/manipulatingImages(Chapter02)/step04/>)
+
+)
 
 ## Author
 
