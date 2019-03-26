@@ -1,4 +1,4 @@
-## Creative Coding
+# Creative Coding
 
 **Generative Design Portfolio**
 Over the course of my final year in Computer Science I have accumulated a collection of Generative Design pieces from the module creative coding. This module allowed me to creatively expand on some ideas using code and develop these ideas by visually representing them on a canvas. These pieces are my portfolio of ideas that illustrate Creative Coding.
@@ -9,7 +9,7 @@ Over the course of my final year in Computer Science I have accumulated a collec
 
 ## Creative Coding Pieces
 
-# Git Hub Links
+### Git Hub Links
 
 These pieces are my Hand picked favourites. These links will direct you to my github repo were you can download and explore.
 
@@ -41,7 +41,7 @@ _Type_
 
 **Below if Some of my Assignment work and Favourite live demonstrations.**
 
-##Color Assignment:
+## Color Assignment:
 
 #### [Color Experiement](Generative-Design-Portfolio/Chapter01-Color Experiements/colorChapter01/Excercise04/StepFinal/)
 
@@ -56,8 +56,6 @@ _Type_
 ## Image Assignment:
 
 #### [Image Manipulation](<Generative-Design-Portfolio/Images/manipulatingImages(Chapter02)/step04/>)
-
-)
 
 ## Author
 
