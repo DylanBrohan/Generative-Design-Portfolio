@@ -43,11 +43,11 @@ _Type_
 
 ## Color Assignment:
 
-- [Color Experiement](Generative-Design-Portfolio/Chapter01-Color Experiements/colorChapter01/Excercise04/StepFinal/)
+#### [Color Experiement](Generative-Design-Portfolio/Chapter01-ColorExperiements/colorChapter01/Excercise04/StepFinal/)
 
 ## Clock in P5:
 
-- [Swiss Clock in P5](Generative-Design-Portfolio/Chapter02-Shape-Experiements/InClass Exam-CreativeCoding/StepFinal/)
+#### [Swiss Clock in P5](Generative-Design-Portfolio/Chapter02-Shape-Experiements/InClassExam-CreativeCoding/StepFinal/)
 
 ## Type Assignment:
 
