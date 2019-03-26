@@ -31,9 +31,9 @@ _Shape_
 
 _Type_
 
-- [Type Experiement01](https://python.com/) - Using Font
+- [Type Experiement01](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter03-Type/type_from_outline_template) - Using Font
 
-- [Type Experiement02](https://pandas.com/) - Type & Pixel Manipulation
+- [Type Experiement02](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter03-Type/type_from_pixels_template) - Type & Pixel Manipulation
 
 ## Live Demos
 
