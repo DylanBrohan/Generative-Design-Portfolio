@@ -25,7 +25,7 @@ _Color_
 
 - [Random Fragmentation of Color](Chapter01-Color Experiements/colorChapter01/Excercise07/StepFinal) - Color Experiement07
 
-- [Overlapping of Grids & Gradiation](/Chapter01-Color Experiements/colorChapter01/Excercise08/StepFinal/) - Color Experiement10
+- [Overlapping of Grids & Gradiation](Chapter01-Color Experiements/colorChapter01/Excercise10/StepFinal) - Color Experiement10
 
 _Shape_
 
@@ -55,7 +55,7 @@ _Type_
 
 ## Image Assignment:
 
-#### [Image Manipulation](Chapter01-Color Experiements/colorChapter01/Excercise10/Step03)
+#### [Image Manipulation](Images/Image Manipulation/Step01)
 
 ## Author
 
