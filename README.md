@@ -15,27 +15,27 @@ These pieces are my Hand picked favourites. These links will direct you to my gi
 
 _Color_
 
-- [Color Experiements](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements) - All Experiements regarding color
+- [Color Experiements](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements) - All Experiement Links Regarding Color
 
 - [Color Grid](Chapter01-Color Experiements/colorChapter01/Excercise02/StepFinal) - Using Color & Images
 
-- [Saturation Grid](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements/colorChapter01/Excercise02/StepFinal) - Color Experiement02
+- [Saturation Grid](Chapter01-Color Experiements/colorChapter01/Excercise02/StepFinal) - Color Experiement02
 
-- [Interpolation Of Colors](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements/colorChapter01/Excercise04/StepFinal) - Color Experiement04
+- [Interpolation Of Colors](Chapter01-Color Experiements/colorChapter01/Excercise04/StepFinal) - Color Experiement04
 
-- [Random Fragmentation of Color](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements/colorChapter01/Excercise07/StepFinal) - Color Experiement07
+- [Random Fragmentation of Color](Chapter01-Color Experiements/colorChapter01/Excercise07/StepFinal) - Color Experiement07
 
-- [Overlapping of Grids & Gradiation](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements/colorChapter01/Excercise10) - Color Experiement10
+- [Overlapping of Grids & Gradiation](/Chapter01-Color Experiements/colorChapter01/Excercise08/StepFinal/) - Color Experiement10
 
 _Shape_
 
-- [Triangular Fans](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color/colorChapter01/Excercise03/StepFinal) - Both a Color & Shape Experiement
+- [Triangular Fans](Chapter01-Color Experiements/colorChapter01/Excercise03/StepFinal) - Both a Color & Shape Experiement
 
 _Type_
 
-- [Type Experiement01](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter03-Type/type_from_outline_template) - Using Font
+- [Type Experiement01](Chapter03-Type/type_from_outline_template) - Using Font
 
-- [Type Experiement02](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter03-Type/type_from_pixels_template) - Type & Pixel Manipulation
+- [Type Experiement02](Chapter03-Type/type_from_pixels_template) - Type & Pixel Manipulation
 
 # Live Demos
 
@@ -47,15 +47,15 @@ _Type_
 
 ## Clock in P5:
 
-#### [Swiss Clock in P5](Generative-Design-Portfolio/Chapter02-Shape-Experiements/InClassExam-CreativeCoding/StepFinal/)
+#### [Swiss Clock in P5](Chapter02-Shape-Experiements/InClass Exam-CreativeCoding/StepFinal)
 
 ## Type Assignment:
 
-#### [Type Input Experiement](Generative-Design-Portfolio/Chapter03-Type/Assignment3-Type/)
+#### [Type Input Experiement](Chapter03-Type/Assignment3-Type)
 
 ## Image Assignment:
 
-#### [Image Manipulation](<Generative-Design-Portfolio/Images/manipulatingImages(Chapter02)/step04/>)
+#### [Image Manipulation](Chapter01-Color Experiements/colorChapter01/Excercise10/Step03)
 
 ## Author
 
