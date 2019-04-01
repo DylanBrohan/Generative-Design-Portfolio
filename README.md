@@ -17,7 +17,7 @@ _Color_
 
 - [Color Experiements](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements) - All Experiements regarding color
 
-- [Color Grid](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Images/Image%20Manipulation) - Using Color & Images
+- [Color Grid](Chapter01-Color Experiements/colorChapter01/Excercise02/StepFinal) - Using Color & Images
 
 - [Saturation Grid](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements/colorChapter01/Excercise02/StepFinal) - Color Experiement02
 
