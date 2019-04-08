@@ -15,7 +15,7 @@ These pieces are my Hand picked favourites. These links will direct you to my gi
 
 _Color_
 
-- [Color Experiements](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements) - All Experiement Links Regarding Color
+- [Color Experiement Procsses](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements) - All Experiements and their Steps to Construction
 
 - [Color Grid](Chapter01-Color Experiements/colorChapter01/Excercise02/StepFinal) - Using Color & Images
 
@@ -35,6 +35,8 @@ _Type_
 
 - [Type Experiement01](Chapter03-Type/type_from_outline_template) - Using Font
 
+**Must Be Opened on Local Host or Mozilla**
+
 - [Type Experiement02](Chapter03-Type/type_from_pixels_template) - Type & Pixel Manipulation
 
 # Live Demos
@@ -52,6 +54,8 @@ _Type_
 ## Type Assignment:
 
 #### [Type Input Experiement](Chapter03-Type/Assignment3-Type)
+
+**Must Be Opened on Local Host or Mozilla**
 
 ## Image Assignment:
 
