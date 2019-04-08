@@ -44,7 +44,7 @@ _Type_
 
 ## Color Assignment:
 
-#### [Color Experiement](Generative-Design-Portfolio/Chapter01-ColorExperiements/colorChapter01/Excercise04/StepFinal/)
+#### [Color Experiement](Generative-Design-Portfolio/Assignment02- Clock/Final Image.jpg)
 
 ## Clock in P5:
 
